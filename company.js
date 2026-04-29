@@ -12,7 +12,7 @@ const CEO_DATA = {
     highlights: [
         '20+ years of dentistry industry experience',
         'Busan Representative Tech Startup(Million Club)',
-        'Received the $ 1million Export Tower Award 2022',
+        'Received the $1 million Export Tower Award 2022',
         'Enrolled Dubai Global Business Center(GBC) 2024',
         'Signed 3 Million Export MOU Central Asia',
     ],
@@ -32,7 +32,7 @@ const COMPANY_DATA = {
         { year: 2022, event: 'PCT International "Dental Implant Surface Treatment Method"' },
         { year: 2023, event: 'Low-temperture Plasma Surface Treatment Tool for CNC machine' },
         { year: 2024, event: 'FDA 510K Approved & Winner of the Smart Korea Awards' },
-        { year: 2025, event: 'MFDS Approved & Signed 3 Million Export MOU Central Asia' },
+        { year: 2025, event: 'MFDS Approved & Signed $3 Million Export MOU Central Asia' },
     ],
 };
 
