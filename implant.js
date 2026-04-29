@@ -367,7 +367,7 @@ const PRODUCT_DETAIL = {
         image: 'temporary.png', sizeImage: 'Temporary_Size.png',
         title: 'Temporary Abutment (Cement)', subtitle: 'Provisional cement-retained interface',
         details: 'Abutment Connector',
-        specs:'Packing Unit: Abutment + Screw, Driver: Hex 1.2 Screw Driver, Torque: 20 Ncm',
+        specs: ['Packing Unit: Abutment + Screw', 'Driver: Hex 1.2 Screw Driver', 'Torque: 20 Ncm'],
          sizeData: {
             columns: ['G/H', 'Product Code'],
             diameters: [
