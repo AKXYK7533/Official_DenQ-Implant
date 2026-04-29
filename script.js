@@ -781,7 +781,7 @@ const PRODUCT_KEYWORD_MAP = [
     { pattern: /\b(pick.?up coping|pick.?up)\b/i,                         key: 'cement_pickup',      ctx: 'implant' },
     { pattern: /\b(transfer coping|transfer)\b/i,                         key: 'cement_transfer',    ctx: 'implant' },
     { pattern: /\b(straight abutment)\b/i,                                key: 'screw_straight',     ctx: 'implant' },
-    { pattern: /\b(multiple angled abutment|multi angled)\b/i,            key: 'screw_multiple_angled', ctx: 'implant' },
+    { pattern: /\b(multiple angled abutment|multi angled|multiunit angled)\b/i, key: 'screw_angled', ctx: 'implant' },
     { pattern: /\b(ti cylinder|ticylinder)\b/i,                           key: 'screw_ticylinder',   ctx: 'implant' },
     { pattern: /\b(burn.?out|plastic abutment)\b/i,                       key: 'screw_plastic',      ctx: 'implant' },
     { pattern: /\b(scan body|scanbody)\b/i,                               key: 'digital_scanbody',   ctx: 'implant' },
