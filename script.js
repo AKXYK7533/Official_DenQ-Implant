@@ -321,7 +321,7 @@ function showMainMenu() {
     chatState.subSection     = null;
     chatState.currentProduct = null;
 
-    appendMessage('Welcome to DenQY Basic Information Provider 😊\nHow may I help you today?', 'bot', false);
+    appendMessage('Welcome to DenQY Basic Info Provider😊\n DenQY helps you to understand more about DenQ\n Feel Free to explore', 'bot', false);
     showButtons(MAIN_MENU.map(item => ({ label: item.label, onClick: item.onClick })));
 }
 
